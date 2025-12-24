@@ -303,6 +303,7 @@ header nav .form i {
     transform: translateX(-50%);
     bottom: 30px;
     display: flex;
+    padding: 0;
 }
 
 .landing .bullets li {
